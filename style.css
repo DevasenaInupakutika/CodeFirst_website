@@ -1,0 +1,26 @@
+body{
+  background-color: lavender;
+}
+h1{
+  color: red;
+  text-align: center;
+}
+p .hobbies{
+           	font-family: "Arial";
+           	color: blue;
+           	text-align: center;
+}
+h2{
+           	 text-align: center;
+             color: red;
+}
+li{
+   text-align: center;
+   font-style: normal;
+
+}
+table{
+  background-color: gray;
+}
+
+  
